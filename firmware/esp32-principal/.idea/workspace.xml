@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="092f452d-ddb7-46c6-ac37-f7fd00e89170" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/bridge.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bridge.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expender.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expender.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map_minervahx.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map_minervahx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map_test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map_test.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mapping.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mapping.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/menu.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/menu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/menu_joystick.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/menu_joystick.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/menu_mapping.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/menu_mapping.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/menu_slider.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/menu_slider.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/menu_sound.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/menu_sound.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/menu_theme.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/menu_theme.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pin.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pin.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/program.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screen.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screen.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sound.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sound.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/startup.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/startup.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/theme.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/theme.h" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="30KUr3wLgwHESCnMEXF1la0brBR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="092f452d-ddb7-46c6-ac37-f7fd00e89170" name="Default Changelist" comment="" />
+      <created>1753375953880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753375953880</updated>
+      <workItem from="1753375955047" duration="1197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
